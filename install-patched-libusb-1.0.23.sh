@@ -39,7 +39,7 @@ exit 0
 mkdir -p build
 cd build
 PKG_NAME='libusb-1.0.23-android-helper-service-patch'
-git clone "https://github.com/green-green-avk/$PKG_NAME"
+git clone "https://kkgithub.com/green-green-avk/$PKG_NAME"
 cd "$PKG_NAME"
 
 ./bootstrap.sh
