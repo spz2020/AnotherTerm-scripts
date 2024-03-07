@@ -39,7 +39,7 @@ exit 0
 mkdir -p build
 cd build
 PKG_NAME='libusb'
-git clone "https://github.com/green-green-avk/$PKG_NAME.git"
+git clone "https://kkgithub.com/green-green-avk/$PKG_NAME.git"
 cd "$PKG_NAME"
 git checkout 'v1.0.26-android-libusbmanager'
 
